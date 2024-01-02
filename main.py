@@ -13,7 +13,7 @@ from matplotlib.animation import FuncAnimation
 ########################################################
 
 def complex_function(x):
-    return 3 * x * x + 2 * x + 6
+    return 3 * x * x + 2 * x + 4
 
 
 ########################################################
